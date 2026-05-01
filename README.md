@@ -11,10 +11,10 @@ All products within this repository adhere to strict architectural standards:
 
 ## Current Deployments
 
-### 1. The ABWA System (Productivity Framework)
-* **Architecture:** React / State Management / Local Storage
-* **Function:** An operational dashboard executing the proprietary ABWA high-performance productivity framework. Eliminates decision fatigue by enforcing strict, prioritized execution protocols.
-* **Documentation:** `/docs/abwa-system-architecture.md`
+### 1. AI-Powered Educational eBook Generator
+* **Architecture:** AWS Bedrock (Claude Opus 4.7) / Python / Next.js
+* **Function:** An automated pipeline for generating structured, high-fidelity digital products. Utilizes frontier models with strict prompt caching to maintain clinical precision and deterministic formatting at scale.
+* **Documentation:** `/docs/ebook-pipeline-architecture.md`
 
 
 ## Deployment Protocols
